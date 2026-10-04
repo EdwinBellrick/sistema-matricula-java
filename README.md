@@ -76,25 +76,14 @@ Tecnologías utilizadas
 - Git
 - GitHub
 
-Estructura del proyecto
-
-```text
-SistemaMatricula
-└── src
-    ├── datos
-    │   ├── Alumno.java
-    │   ├── Curso.java
-    │   ├── Matricula.java
-    │   └── Retiro.java
-    ├── gui
-    └── modelo
-```
-
 Integrantes
 
 Joaquin leonardo Arango Muñoz
+
 Marcos Brayan Bonilla Soto
+
 Edwin Jesus Concha Bazan
+
 Gonzalo Ochoa Calatayud
 
 Curso
