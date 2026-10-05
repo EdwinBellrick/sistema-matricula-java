@@ -1,4 +1,4 @@
-package datos;
+package Clase;
 
 public class Retiro {
 
